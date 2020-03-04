@@ -4,36 +4,17 @@
   
     
     <entry>
-      <title>还是一篇测试</title>
-      <link href="/posts/47650.html"/>
-      <url>/posts/47650.html</url>
+      <title>开启新章程</title>
+      <link href="/posts/c267.html"/>
+      <url>/posts/c267.html</url>
       
-        <content type="html"><![CDATA[<h1 id="不是措手不及"><a href="#不是措手不及" class="headerlink" title="不是措手不及"></a>不是措手不及</h1><h2 id="测距发布金额为报复而覅发放日"><a href="#测距发布金额为报复而覅发放日" class="headerlink" title="测距发布金额为报复而覅发放日"></a>测距发布金额为报复而覅发放日</h2><p>的合并成本的万能方法年卡凡是离开不发表看法付款就,<br>cow分别为v我不吃我地问道。</p><h2 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="开启新章程"><a href="#开启新章程" class="headerlink" title="开启新章程"></a>开启新章程</h1><blockquote><p>这几天一直在搞博客，想在<a href="github.com">GitHub</a>上部署，因为GitHub上有免费的空间可以用，当时尝试了许多，包括<a href="https://definithing.com/jeykell/" target="_blank" rel="noopener">jekyll</a>与GitHub配合，<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a>与GitHub的配合，但最终选择了hexo，它插件挺多，挺方便的。<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p></blockquote><h3 id="Step-1"><a href="#Step-1" class="headerlink" title="Step 1"></a>Step 1</h3><p>偶然间看到一个博客，说拥有一个博客，就相当于在网络上拥有了一个自己的独立空间，可以在这里面写一写自己关于任何方面的有趣的事、想分享到技术、想写出来的文章等。我一想还不赖，于是便产生了搞一个自己的博客的想法。在踩了无数坑、试了几次“毒”之后，终于确定了这个hexo博客和这个主题，有兴趣的小伙伴可以去我的<a href="github.com/gqd000">GitHub</a>上随便看看，有一些我挑选的jekyll和hexo的模板，这儿还有<a href="https://hexo.io/zh-cn/docs/index.html" target="_blank" rel="noopener">hexo的官方文档</a>，感兴趣的小伙伴也可以去看看。<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p><h3 id="Step-2"><a href="#Step-2" class="headerlink" title="Step 2"></a>Step 2</h3><p>这个博客我将主要用来分享一些感觉有趣的东西，可能会包括一些IT类的、还有一些电影推荐（因为本人非常喜欢看电影）、好文章推荐之类的东西。</p><h3 id="Step-3"><a href="#Step-3" class="headerlink" title="Step 3"></a>Step 3</h3><p>这是我第一次写博文，所以可能会有许多的纰漏，多多担待。这里，我是用浏览器上的网页写这篇 MarkDown文章的，对新手小伙伴来说，写MD格式的博文，<a href="https://maxiang.io/" target="_blank" rel="noopener">马克飞象</a>的确是一个不错的选择，它可以实时生成并可以实时预览文章，非常方便。</p><h3 id="Step-4"><a href="#Step-4" class="headerlink" title="Step 4"></a>Step 4</h3><p>当然，因为我技术有限、能力也不足，还请“不幸”<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8">😢</span>看到的小伙伴，多多担待，及时评论指正错误，如果看到消息，我一定改正。还有就是希望看到的小伙伴们在留言区和我多多交流，我们可以以前学习、一起进步！</p><h3 id="Step-5"><a href="#Step-5" class="headerlink" title="Step 5"></a>Step 5</h3><p>后续，我可能会搞一篇用Github和Hexo搭建博客的文章，虽然网上教程很多，但我也遇到了许多问题，我会把我试过的“毒”和踩过的坑介绍给大家，以免感兴趣的小伙伴搭建的时候重蹈覆辙。</p><h3 id="Step-6"><a href="#Step-6" class="headerlink" title="Step 6"></a>Step 6</h3><p>现在，终于可以删除测试文章了，但是，那篇“Hello World”我相信每个搭建博客的小伙伴都不会删吧，因为它在某种程度上说是我们探索新知识的引领者，它有着很大的纪念意义。但愿我能够一直坚持下去，正借用那个大神的话，将一个小事坚持下来那也挺了不起的。最后，希望我能在这个博客中分享一些优质的的东西，让思维、感情、思想得到升华！</p><h2 id="END"><a href="#END" class="headerlink" title="END"></a>END</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
         <tags>
             
             <tag> 生活 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>测试文章</title>
-      <link href="/posts/4131.html"/>
-      <url>/posts/4131.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="欢迎来到Hexo，这是一篇测试文章"><a href="#欢迎来到Hexo，这是一篇测试文章" class="headerlink" title="欢迎来到Hexo，这是一篇测试文章"></a>欢迎来到Hexo，这是一篇测试文章</h1><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>不是读书：<br>    宽带带宽<br>的基本DVD<br>    ddjfdjf<br>    djddkfdfdfdd</p><h3 id="手机百度圣卡不对劲啊撒旦撒卡"><a href="#手机百度圣卡不对劲啊撒旦撒卡" class="headerlink" title="手机百度圣卡不对劲啊撒旦撒卡"></a>手机百度圣卡不对劲啊撒旦撒卡</h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 电影 </tag>
             
         </tags>
       
