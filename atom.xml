@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.hexoblog.gq/"/>
-  <updated>2020-03-03T17:51:13.698Z</updated>
+  <updated>2020-03-04T16:24:02.634Z</updated>
   <id>https://www.hexoblog.gq/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.hexoblog.gq/posts/47650.html"/>
     <id>https://www.hexoblog.gq/posts/47650.html</id>
     <published>2020-03-04T03:04:49.473Z</published>
-    <updated>2020-03-03T17:51:13.698Z</updated>
+    <updated>2020-03-04T16:24:02.634Z</updated>
     
     <summary type="html">
     
@@ -37,7 +37,7 @@
     
     
     
-      <category term="life" scheme="https://www.hexoblog.gq/tags/life/"/>
+      <category term="生活" scheme="https://www.hexoblog.gq/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -46,7 +46,7 @@
     <link href="https://www.hexoblog.gq/posts/4131.html"/>
     <id>https://www.hexoblog.gq/posts/4131.html</id>
     <published>2020-03-04T03:04:49.466Z</published>
-    <updated>2020-03-04T08:40:44.301Z</updated>
+    <updated>2020-03-04T16:27:41.775Z</updated>
     
     <summary type="html">
     
@@ -62,7 +62,7 @@
     
     
     
-      <category term="movie" scheme="https://www.hexoblog.gq/tags/movie/"/>
+      <category term="电影" scheme="https://www.hexoblog.gq/tags/%E7%94%B5%E5%BD%B1/"/>
     
   </entry>
   
@@ -71,7 +71,7 @@
     <link href="https://www.hexoblog.gq/posts/16107.html"/>
     <id>https://www.hexoblog.gq/posts/16107.html</id>
     <published>2020-03-04T01:20:00.081Z</published>
-    <updated>2020-03-03T17:51:13.705Z</updated>
+    <updated>2020-03-04T16:27:57.977Z</updated>
     
     <summary type="html">
     
@@ -86,6 +86,8 @@
     </summary>
     
     
+    
+      <category term="IT" scheme="https://www.hexoblog.gq/tags/IT/"/>
     
   </entry>
   
