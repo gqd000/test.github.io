@@ -468,19 +468,19 @@ if (windowWidth > 768) {
             <div class="tag-chips">
                 
                 
-                <a href="/tags/IT/" title="IT: 1">
+                <a href="/tags/%E7%94%9F%E6%B4%BB/" title="生活: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="IT" style="background-color: #F9EBEA;">IT
+                            data-tagname="生活" style="background-color: #F9EBEA;">生活
                         <span class="tag-length">1</span>
                     </span>
                 </a>
                 
                 
-                <a href="/tags/%E7%94%9F%E6%B4%BB/" title="生活: 1">
+                <a href="/tags/IT/" title="IT: 1">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="生活" style="background-color: #F5EEF8;">生活
+                            data-tagname="IT" style="background-color: #F5EEF8;">IT
                         <span class="tag-length">1</span>
                     </span>
                 </a>
@@ -509,7 +509,7 @@ if (windowWidth > 768) {
 <script type="text/javascript">
     
 
-    $('#tag-wordcloud').jQCloud([{"text":"IT","weight":1,"link":"https://www.hexoblog.gq/tags/IT/"},{"text":"生活","weight":1,"link":"https://www.hexoblog.gq/tags/生活/"}], {
+    $('#tag-wordcloud').jQCloud([{"text":"生活","weight":1,"link":"https://www.hexoblog.gq/tags/生活/"},{"text":"IT","weight":1,"link":"https://www.hexoblog.gq/tags/IT/"}], {
         autoResize: true
     });
 </script>
@@ -760,8 +760,8 @@ $(function () {
             const strs = href.split('/');
             if (strs.length >= 3) {
                 const host = strs[2];
-                if (host !== 'window.location.host' || window.location.host) {
-                    $this.attr('href', '/go.html?u='+Base64.encode(href)+'').attr('rel', 'external nofollow noopener noreferrer');
+                if (host !== 'hexoblog.gq' || window.location.host) {
+                    $this.attr('href', '/go.html?url='+Base64.encode(href)+'').attr('rel', 'external nofollow noopener noreferrer');
                     if (true) {
                         $this.attr('target', '_blank');
                     }
