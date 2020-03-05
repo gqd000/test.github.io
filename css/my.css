@@ -1,5 +1,15 @@
 /* Here is your custom css styles. */
 
+/*字体 */
+@font-face{
+    font-family: '汉仪行楷简';
+    src: url('../font/汉仪行楷简.ttf');
+}
+
+body{
+    font-family: '汉仪行楷简';
+}
+
 /* hexo-filter-github-emojis */
 .github-emoji{
     height: 2em;
