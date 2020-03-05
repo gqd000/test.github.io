@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/posts/64fb.html"/>
+      <url>/posts/64fb.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="nothing"><a href="#nothing" class="headerlink" title="nothing"></a>nothing</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> life </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>开启新章程</title>
       <link href="/posts/c267.html"/>
       <url>/posts/c267.html</url>

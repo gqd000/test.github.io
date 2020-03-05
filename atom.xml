@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.hexoblog.gq/"/>
-  <updated>2020-03-04T17:32:18.537Z</updated>
+  <updated>2020-03-05T10:29:48.807Z</updated>
   <id>https://www.hexoblog.gq/</id>
   
   <author>
@@ -17,22 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="https://www.hexoblog.gq/posts/64fb.html"/>
+    <id>https://www.hexoblog.gq/posts/64fb.html</id>
+    <published>2020-03-05T10:28:58.914Z</published>
+    <updated>2020-03-05T10:29:48.807Z</updated>
+    
+    <summary type="html">
+    
+      nothing
+    
+    </summary>
+    
+    
+    
+      <category term="life" scheme="https://www.hexoblog.gq/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>开启新章程</title>
     <link href="https://www.hexoblog.gq/posts/c267.html"/>
     <id>https://www.hexoblog.gq/posts/c267.html</id>
     <published>2020-03-04T17:30:01.490Z</published>
-    <updated>2020-03-04T17:32:18.537Z</updated>
+    <updated>2020-03-05T11:24:16.949Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;开启新章程&quot;&gt;&lt;a href=&quot;#开启新章程&quot; class=&quot;headerlink&quot; title=&quot;开启新章程&quot;&gt;&lt;/a&gt;开启新章程&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;这几天一直在搞博客，想在&lt;a
-        
-      
+      开启新章程
+这几天一直在搞博客，想在GitHub上部署，因为GitHub上有免费的空间可以用，当时尝试了许多，包括jekyll与GitHub配合，hexo与GitHub的配合，但最终选择了hexo，它插件挺多，挺方便的。&lt;span class=&quot;github-emoji&quot; style=&quot;color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain&quot; data-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8&quot;&gt;😄&lt;/span&gt;
+
+Step 1
+偶然间看到一个博客，说拥有一个博客，就相当于在网络上拥有了一个自己的独立空间，可以在这里面写一写自己关于任何方面的有趣的事、想分享到技术、想写出来的文章等。我一想还不赖，于是便产生了搞一个自己的博客的想法。在踩了无数坑、试了几次“毒”之后，终于确定了这个hexo博客和这个主题，有兴趣的小伙伴可以去我的GitHub上随便看看，有一些我挑选的jeky
     
     </summary>
     
@@ -51,13 +67,18 @@
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+
+Quick Start
+Create a new post
+$ hexo new &quot;My New Post&quot;
+
+More info: Writing
+
+Run server
+$ hexo server
+
+Mo
     
     </summary>
     
