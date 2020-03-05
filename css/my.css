@@ -2,12 +2,12 @@
 
 /*字体 */
 @font-face{
-    font-family: '汉仪行楷简';
-    src: url('../font/汉仪行楷简.ttf');
+    font-family: 'hanyixingkai';
+    src: url('../font/hanyixingkai.ttf');
 }
 
 body{
-    font-family: '汉仪行楷简';
+    font-family: 'hanyixingkai';
 }
 
 /* hexo-filter-github-emojis */
