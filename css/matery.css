@@ -250,7 +250,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #34ff01 0%, #0eeb80 100%);
 }
 
 .text-color {
@@ -258,7 +258,7 @@ mark {
 }
 
 .white-color {
-    color: #fff;
+    color: rgb(245, 189, 189);
 }
 
 .progress-bar {
@@ -267,7 +267,7 @@ mark {
     bottom: 0;
     z-index: 300;
     background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .sidenav-overlay {
