@@ -5,9 +5,9 @@
   <subtitle>蓬瀛</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.hexoblog.gq/"/>
+  <link href="https://www.gqd000.github.io/"/>
   <updated>2020-03-07T18:25:27.368Z</updated>
-  <id>https://www.hexoblog.gq/</id>
+  <id>https://www.gqd000.github.io/</id>
   
   <author>
     <name>青笙挽歌</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python学习笔记（一）</title>
-    <link href="https://www.hexoblog.gq/posts/4ba3.html"/>
-    <id>https://www.hexoblog.gq/posts/4ba3.html</id>
+    <link href="https://www.gqd000.github.io/posts/4ba3.html"/>
+    <id>https://www.gqd000.github.io/posts/4ba3.html</id>
     <published>2020-03-09T15:18:27.336Z</published>
     <updated>2020-03-07T18:25:27.368Z</updated>
     
@@ -51,14 +51,14 @@ kg = int(weigt
     
     
     
-      <category term="IT" scheme="https://www.hexoblog.gq/tags/IT/"/>
+      <category term="IT" scheme="https://www.gqd000.github.io/tags/IT/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.hexoblog.gq/posts/16107.html"/>
-    <id>https://www.hexoblog.gq/posts/16107.html</id>
+    <link href="https://www.gqd000.github.io/posts/16107.html"/>
+    <id>https://www.gqd000.github.io/posts/16107.html</id>
     <published>2020-03-09T15:18:27.327Z</published>
     <updated>2020-03-07T18:25:16.119Z</updated>
     
@@ -81,14 +81,14 @@ Mo
     
     
     
-      <category term="IT" scheme="https://www.hexoblog.gq/tags/IT/"/>
+      <category term="IT" scheme="https://www.gqd000.github.io/tags/IT/"/>
     
   </entry>
   
   <entry>
     <title>开启新章程</title>
-    <link href="https://www.hexoblog.gq/posts/c267.html"/>
-    <id>https://www.hexoblog.gq/posts/c267.html</id>
+    <link href="https://www.gqd000.github.io/posts/c267.html"/>
+    <id>https://www.gqd000.github.io/posts/c267.html</id>
     <published>2020-03-09T15:18:27.318Z</published>
     <updated>2020-03-07T17:48:24.672Z</updated>
     
@@ -104,7 +104,7 @@ Step 1
     
     
     
-      <category term="生活" scheme="https://www.hexoblog.gq/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://www.gqd000.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
